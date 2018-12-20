@@ -60,6 +60,7 @@
               <h2>Tools for Testing</h2>
               <dl>
                 <p>
+                  <dt><a href="https://frontendchecklist.io/#section-accessibility">Front end checklist</a></dt>
                   <dt><a href="https://laura-johnson.github.io/accessibility-presentation/#/title">A Smarter Way to Test Accessibility</a>
                   <dt><a href="https://www.deque.com/tools/">Accessibility Products | Web Accessibility Software Solutions</a>
                   <dt><a href="https://a11y.nicolas-hoffmann.net/">Accessibility section - jQuery Plugins - By Nicolas Hoffmann</a>
