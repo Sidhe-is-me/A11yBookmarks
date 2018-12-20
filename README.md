@@ -1,6 +1,3 @@
-<!DOCTYPE NETSCAPE-Bookmark-file-1>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
-<TITLE>A11y Bookmarks</TITLE>
 <h1>A11y Bookmarks</h1>
 <dl>
   <p>
